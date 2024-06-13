@@ -1,0 +1,11 @@
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+G:\FOT ICT\Lec PDF\2nd Year\1st Sem\Work\Flappy bird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form2.resources
