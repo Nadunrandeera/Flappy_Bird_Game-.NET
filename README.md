@@ -2,6 +2,10 @@
 
 Welcome to the Flappy Bird Clone repository! This project is a recreation of the classic Flappy Bird game, developed using .NET and C#. It's a fun and challenging game where you navigate a bird through a series of pipes without crashing.
 
+
+https://github.com/Nadunrandeera/Flappy_Bird_Game-.NET/assets/126862247/f5ff85eb-305f-48e1-9a69-a379f7f8bd08
+
+
 ## Features
 - **Smooth Gameplay:** Experience a seamless and responsive game performance.
 - **Simple Controls:** Tap or click to make the bird fly higher.
